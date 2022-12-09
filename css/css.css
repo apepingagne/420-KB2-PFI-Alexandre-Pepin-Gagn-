@@ -116,6 +116,11 @@ video.center{
     text-align: center;
     overflow:hidden;
 }
+.grid-image{
+    float:left;
+    width: 300px;
+    height: 400px;
+}
 .tableau, th, td{
     font-family: Arial, Helvetica, sans-serif;
     border: 5px outset black;
